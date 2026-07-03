@@ -3,7 +3,7 @@
 <h3 align="center">Web Developer | React & Next.js Developer | Java & Python Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;Next.js+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Web+Developer;React+Developer;Next.js+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
