@@ -86,7 +86,7 @@
 
 ## 🌐 Connect With Me
 
-- 🌍 Portfolio: https://portfolio-jebarshan.vercel.app
+- 🌍 Portfolio: https://jebarshan-portfolio.vercel.app/
 - 💼 LinkedIn: https://linkedin.com/in/jebarshanj
 - 📧 Email: jebarshanj@gmail.com
 
