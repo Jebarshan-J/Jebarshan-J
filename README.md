@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jebarshan</h1>
 
-<h3 align="center">Web Developer | React & Next.js Developer | Java & Python Learner</h3>
+<h3 align="center">Aspiring Full Stack Developer | React • Next.js • Java • Python</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Web+Developer;React+Developer;Next.js+Developer;Always+Learning+New+Technologies" />
