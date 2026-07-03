@@ -86,17 +86,9 @@
 
 ## 🌐 Connect With Me
 
-Portfolio:
-https://portfolio-jebarshan.vercel.app
-
-GitHub:
-https://github.com/Jebarshan-J
-
-LinkedIn:
-https://linkedin.com/in/jebarshanj
-
-Email:
-jebarshanj@gmail.com
+- 🌍 Portfolio: https://portfolio-jebarshan.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/jebarshanj
+- 📧 Email: jebarshanj@gmail.com
 
 ---
 
