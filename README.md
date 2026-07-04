@@ -62,16 +62,6 @@
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jebarshan-J&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ⭐ Blog Project (Next.js + MySQL)
